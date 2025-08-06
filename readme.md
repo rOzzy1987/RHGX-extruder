@@ -46,3 +46,12 @@ For a complete assembly
 ### Cover
 ![](https://github.com/rOzzy1987/RHGX-extruder/blob/main/Doc/rhgx-s8.png?raw=true)
 
+## Footnote
+The RHGX Extruder is free to download, print, modify, and it always will be!
+
+If you find it useful, please consider supporting the effort by 2-5$. That way I can spend more time on projects like this.
+
+[Ko-fi](https://ko-fi.com/rOzzy87) / [Paypal](https://paypal.me/rozzy87) / [Revolut](https://revolut.me/mihlywer)
+
+Thank you!
+
